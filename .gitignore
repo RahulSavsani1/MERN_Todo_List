@@ -1,0 +1,6 @@
+node_modules/
+.env
+req.REST
+
+frontend/node_modules
+frontend/build
